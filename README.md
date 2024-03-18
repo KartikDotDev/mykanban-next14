@@ -36,12 +36,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-# Progress Report for 
+# Progress Report 
 - [x] Initialized Next 14 App
-- [ ] Installed shadcn ui and button component
+- [x] Installed shadcn ui and button component
+- [x] Installed clerk
+- [x] Set up Working on it home page for live use so 
 - [ ] Design and implement the landing page
+    - [ ] Create the Figma Design for it.
+    - [ ] Implement the MVP based UI
+    - [ ] Make final touches / add more if revamp is needed
 - [ ] Design and implement the login page
-    - [ ] install clerk
     - [ ] implement the login page
 - [ ] Design and implement the signup page
     - [ ] implement the signup page
