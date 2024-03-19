@@ -1,5 +1,5 @@
-import { Construction } from "lucide-react";
-import  Banner  from "@/components/banner";
+// import { Construction } from "lucide-react";
+// import  Banner  from "@/components/banner";
 
 export default function Home() {
   return (
