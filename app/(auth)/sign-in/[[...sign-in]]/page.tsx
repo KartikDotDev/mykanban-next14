@@ -1,7 +1,5 @@
-export default function SignIn() {
-    return (
-        <div>
-            Under Construction
-        </div>
-    )
+import { SignIn } from "@clerk/nextjs";
+ 
+export default function Page() {
+  return <SignIn />;
 }
